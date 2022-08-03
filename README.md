@@ -10,3 +10,8 @@
 
 ③增加部分源。
 
+<a href="yuedu://booksource/importonline?src=https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json">
+    <div class="aui-film-button">
+        <button> 一键导入 </button>
+    </div>
+</a>
