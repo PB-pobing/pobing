@@ -1,6 +1,5 @@
-书源：复制下面链接，在阅读里'网络导入'。 
-<a href="https://raw.staticdn.net/PB-pobing/pobing/pb/50.json" rel="nofollow">导入</a>
-<a class="layui-layout-right layui-btn layui-btn-normal" href="yuedu://booksource/importonline?src=https://raw.staticdn.net/PB-pobing/pobing/pb/50.json">3.0一键导入</a>
+书源：复制下面链接，在阅读里'<a href="https://raw.staticdn.net/PB-pobing/pobing/pb/50.json" rel="nofollow">网络导入</a>'。 
+https://raw.staticdn.net/PB-pobing/pobing/pb/50.json
 
 更新日期：不定期
 
