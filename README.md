@@ -9,4 +9,4 @@
 ②删除失效源。
 
 ③增加部分源。
-<a href="yuedu://booksource/importonline?src=https://raw.staticdn.net/PB-pobing/pobing/pb/50.json" rel="nofollow">一件导入</a>
+<a href="legado://import/bookSource?src=https://raw.staticdn.net/PB-pobing/pobing/pb/50.json" rel="nofollow">一件导入</a>
