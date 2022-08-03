@@ -9,3 +9,4 @@
 ②删除失效源。
 
 ③增加部分源。
+<a href="https://play.google.com/store/apps/details?id=io.legado.play.release" rel="nofollow">Google play - $1.99</a>
