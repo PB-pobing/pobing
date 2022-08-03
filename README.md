@@ -1,4 +1,4 @@
-书源：复制下面链接，在阅读里'网络导入'。 https://raw.staticdn.net/PB-pobing/pobing/main/50.json
+书源：复制下面链接，在阅读里'网络导入'。 https://raw.staticdn.net/PB-pobing/pobing/pb/50.json
 
 更新日期：不定期
 
