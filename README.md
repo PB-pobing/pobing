@@ -1,4 +1,4 @@
-书源：复制下面链接，在阅读里'网络导入'。 yuedu://booksource/importonline?src=https://raw.staticdn.net/PB-pobing/pobing/pb/50.json
+书源：复制下面链接，在阅读里'网络导入'。 
 
 更新日期：不定期
 
@@ -9,4 +9,4 @@
 ②删除失效源。
 
 ③增加部分源。
-<a href="https://play.google.com/store/apps/details?id=io.legado.play.release" rel="nofollow">Google play - $1.99</a>
+<a href="yuedu://booksource/importonline?src=https://raw.staticdn.net/PB-pobing/pobing/pb/50.json" rel="nofollow">一件导入</a>
