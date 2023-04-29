@@ -1,4 +1,4 @@
-书源：复制下面链接，在阅读里网络导入：https://raw.gitmirror.com/PB-pobing/pobing/pb/50.json
+书源：复制下面链接，在阅读里网络导入：https://raw.gitmirror.com/PB-pobing/pobing/pb/sy.json
 
 更新日期：不定期
 
